@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cloud-sales-taxes-webapp"
+    }
+  },
+  "defaultProject": "cloud-sales-taxes-webapp",
+  "cli": {
+    "analytics": false
+  }
 }
